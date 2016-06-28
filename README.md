@@ -7,6 +7,9 @@ This application implements a simple contact list service that manages contacts 
 
 **This is sample code** for the article "Constructing a full REST API with respect to best practices - Part 1 and 2" written for Sitepoint.
 
+##Link to the tutorial
+https://www.sitepoint.com/best-practices-rest-api-scratch-implementation/
+
 ## Resources and Actions
 
     URL                           HTTP Method  Operation
